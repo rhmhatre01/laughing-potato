@@ -1,0 +1,17 @@
+<html>
+    <head>
+            <title>
+                   Html Crash course. 
+            </title>
+    </head> 
+    <body>
+        <p>
+            Hello , World
+        </p>
+        <p "style="color: green;"> Html Page</p>
+    </body>
+
+
+
+
+</html>
